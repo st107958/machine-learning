@@ -6,3 +6,10 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+/recognition/audio_data_set/
+/recognition/data_mp3/
+/recognition/data_ogg/
+/recognition/data_set/
+/recognition/data_test/
+/recognition/my_audio_data_set/
+/recognition/to_conv_m4a/
